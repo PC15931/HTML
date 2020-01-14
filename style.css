@@ -73,15 +73,15 @@ input[type=checkbox]:checked ~ #menu {
     display: none;
     }
     li {
-	    margin-bottom: 1px;
+        margin-bottom: 1px;
     }
     ul li, li a {
-	    width: 100%;
+        width: 100%;
     }
     .show-menu {
-	    display: block;
+        display: block;
     }
     body {
-	    background-image: none;
+        background-image: none;
     }
 }
